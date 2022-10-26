@@ -21,3 +21,5 @@ To run this project please follow the following steps:
 - ./a.out
 
 I hope that this project will benefit you by gaining sufficient information.
+
+Dont hesitate to contact me if you need any help ^-^ : fsalem@student.42abudhabi.ae
