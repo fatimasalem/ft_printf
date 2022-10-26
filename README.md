@@ -18,8 +18,10 @@ To run this project please follow the following steps:
 
 - make
 <img width="573" alt="Screen Shot 2022-10-26 at 11 15 57 PM" src="https://user-images.githubusercontent.com/106735363/198119198-e4ac52fc-fb17-49f1-873b-ce9a164e5413.png">
+
 - gcc *.c
 <img width="568" alt="Screen Shot 2022-10-26 at 11 32 52 PM" src="https://user-images.githubusercontent.com/106735363/198119475-a23eaef9-1e64-4aad-87ca-3f6538b91b53.png">
+
 - ./a.out
 <img width="598" alt="Screen Shot 2022-10-26 at 11 33 41 PM" src="https://user-images.githubusercontent.com/106735363/198119629-de2d6442-b00a-4244-94e2-3bc3a4a080eb.png">
 
