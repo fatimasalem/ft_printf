@@ -1,5 +1,5 @@
 # ft_printf
-This project is an implementation of the printf built in command.
+This project was done by the C language and it's an implementation of the printf built in command.
 
 The following converions are handled in this project:
 - %s (string)
