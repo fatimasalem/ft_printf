@@ -22,5 +22,3 @@ To run this project please follow the following steps:
 3 - ./a.out
 
 I hope that this project will benefit you by gaining sufficient information.
-
-forthebadge forthebadge
