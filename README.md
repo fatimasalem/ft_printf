@@ -17,6 +17,7 @@ The following converions are handled in this project:
 To run this project please follow the following steps:
 
 - make
+<img width="573" alt="Screen Shot 2022-10-26 at 11 15 57 PM" src="https://user-images.githubusercontent.com/106735363/198119198-e4ac52fc-fb17-49f1-873b-ce9a164e5413.png">
 - gcc *.c
 - ./a.out
 
