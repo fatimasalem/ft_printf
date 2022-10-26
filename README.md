@@ -17,8 +17,8 @@ This project is handling the following conversions:
 
 To run this project please follow the following steps:
 
-1 - make
-2 - gcc *.c
-3 - ./a.out
+- make
+- gcc *.c
+- ./a.out
 
 I hope that this project will benefit you by gaining sufficient information.
