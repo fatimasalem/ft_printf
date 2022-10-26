@@ -1,7 +1,7 @@
 # ft_printf
-This project is an implementation of the printf built in command 
+This project is an implementation of the printf built in command.
 
-This project is handling the following conversions:
+The following converions are handled in this project:
 - %s (string)
 - %u (unsigned decimal)
 - %i (integer)
