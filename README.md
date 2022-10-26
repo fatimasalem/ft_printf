@@ -14,3 +14,11 @@ This project is handling the following conversions:
 - %% (percentage)
 
 , Also a main file is uploaded to check, test and compare my project conversions to the main printf built in command output to display the result similarities.
+
+To run this project please follow the following steps:
+
+1 - make
+2 - gcc *.c
+3 - ./a.out
+
+I hope that this project will benefit you by gaining sufficient information.
