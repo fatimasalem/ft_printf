@@ -19,7 +19,7 @@ To run this project please follow the following steps:
 - make
 <img width="573" alt="Screen Shot 2022-10-26 at 11 15 57 PM" src="https://user-images.githubusercontent.com/106735363/198119198-e4ac52fc-fb17-49f1-873b-ce9a164e5413.png">
 
-- gcc *.c
+- gcc *.c (This step in case any changes were made)
 <img width="568" alt="Screen Shot 2022-10-26 at 11 32 52 PM" src="https://user-images.githubusercontent.com/106735363/198119475-a23eaef9-1e64-4aad-87ca-3f6538b91b53.png">
 
 - ./a.out
