@@ -1,9 +1,11 @@
 # ft_printf
 This project was 
-<img width="146" alt="Screen Shot 2022-10-27 at 8 53 54 AM" src="https://user-images.githubusercontent.com/106735363/198195743-3147a74b-e3d3-4f4e-a01f-fe677f6e2390.png">
-<img width="137" alt="Screen Shot 2022-10-27 at 8 55 03 AM" src="https://user-images.githubusercontent.com/106735363/198195753-48fdeb43-64cc-45b3-b8f4-87f2a753a55c.png">
 
-it's an implementation of the printf built in command.
+<img width="145" alt="Screen Shot 2022-10-27 at 9 01 02 AM" src="https://user-images.githubusercontent.com/106735363/198196169-4ac83870-c3ca-46cb-865b-9c60f488d4ce.png">
+<img width="145" alt="Screen Shot 2022-10-27 at 9 01 37 AM" src="https://user-images.githubusercontent.com/106735363/198196171-b192d5df-4716-4a9f-9989-ad72297c9426.png">
+
+
+It's an implementation of the printf built in command.
 
 The following converions are handled in this project:
 - %s (string)
