@@ -22,6 +22,9 @@ The following converions are handled in this project:
 
 To run this project please follow the following steps:
 
+- cd ft_printf
+<img width="535" alt="Screen Shot 2022-10-28 at 3 08 17 PM" src="https://user-images.githubusercontent.com/106735363/198573347-6d6b15fc-b2db-4837-8224-e3869f2f1836.png">
+
 - make
 <img width="573" alt="Screen Shot 2022-10-26 at 11 15 57 PM" src="https://user-images.githubusercontent.com/106735363/198119198-e4ac52fc-fb17-49f1-873b-ce9a164e5413.png">
 
