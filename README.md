@@ -1,4 +1,4 @@
-# ft_printf
+# ft_printf 🖨
 This project was 
 
 <img width="145" alt="Screen Shot 2022-10-27 at 9 01 02 AM" src="https://user-images.githubusercontent.com/106735363/198196169-4ac83870-c3ca-46cb-865b-9c60f488d4ce.png">
