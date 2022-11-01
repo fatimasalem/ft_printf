@@ -5,7 +5,7 @@ This project was
 <img width="145" alt="Screen Shot 2022-10-27 at 9 01 37 AM" src="https://user-images.githubusercontent.com/106735363/198196171-b192d5df-4716-4a9f-9989-ad72297c9426.png">
 
 
-It's an implementation of the printf built in command.
+## It's an implementation of the printf built in command.
 
 The following converions are handled in this project:
 - %s (string)
@@ -20,7 +20,7 @@ The following converions are handled in this project:
 
 , Also a main file is uploaded to check, test and compare my project conversions to the main printf built in command output to display the result similarities.
 
-To run this project please follow the following steps:
+## To run this project please follow the following steps:
 
 - cd ft_printf
 <img width="535" alt="Screen Shot 2022-10-28 at 3 08 17 PM" src="https://user-images.githubusercontent.com/106735363/198573347-6d6b15fc-b2db-4837-8224-e3869f2f1836.png">
@@ -34,6 +34,6 @@ To run this project please follow the following steps:
 - ./a.out
 <img width="598" alt="Screen Shot 2022-10-26 at 11 33 41 PM" src="https://user-images.githubusercontent.com/106735363/198119629-de2d6442-b00a-4244-94e2-3bc3a4a080eb.png">
 
-I hope that this project will benefit you by gaining sufficient information.
+## I hope that this project will benefit you by gaining sufficient information.
 
-Dont hesitate to contact me if you need any help ^-^ : fsalem@student.42abudhabi.ae
+## Dont hesitate to contact me if you need any help ^-^ : fsalem@student.42abudhabi.ae
