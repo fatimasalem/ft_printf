@@ -36,4 +36,4 @@ The following converions are handled in this project:
 
 ## I hope that this project will benefit you by gaining sufficient information.
 
-## Dont hesitate to contact me if you need any help ^-^ : fsalem@student.42abudhabi.ae
+Dont hesitate to contact me if you need any help ^-^ : fsalem@student.42abudhabi.ae
