@@ -18,7 +18,7 @@ The following converions are handled in this project:
 - %c (character)
 - %% (percentage)
 
-, Also a main file is uploaded to check, test and compare my project conversions to the main printf built in command output to display the result similarities.
+, Also a main file is uploaded to check, test and compare my project conversions to the main printf built-in command output to display the result similarities.
 
 ## To run this project please follow the following steps:
 
