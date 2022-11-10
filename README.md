@@ -5,7 +5,7 @@ This project was
 <img width="145" alt="Screen Shot 2022-10-27 at 9 01 37 AM" src="https://user-images.githubusercontent.com/106735363/198196171-b192d5df-4716-4a9f-9989-ad72297c9426.png">
 
 
-## It's an implementation of the printf built in command.
+## It's an implementation of the printf built-in command.
 
 The following converions are handled in this project:
 - %s (string)
