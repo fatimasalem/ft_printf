@@ -34,6 +34,10 @@ The following converions are handled in this project:
 - ./a.out
 <img width="598" alt="Screen Shot 2022-10-26 at 11 33 41 PM" src="https://user-images.githubusercontent.com/106735363/198119629-de2d6442-b00a-4244-94e2-3bc3a4a080eb.png">
 
+## Challenges 👩🏻‍💻
+
+In This project the main challenge i faced is to learn and to know how to work with the variadic functions. Sense the built-in command printf take infinte number of arguments it was a challenge to figure how to implement the same function in my code, and the variadic functions were the answere. Implementing va_start(), va_arg() and va_end() gave my function the ability to accept infinite number of arguments.
+
 ## I hope that this project will benefit you by gaining sufficient information.
 
 Dont hesitate to contact me if you need any help ^-^ : fsalem@student.42abudhabi.ae
