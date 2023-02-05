@@ -5,9 +5,7 @@
 
 <p align="justify">
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 </p>
 
 ## Content <td align="justify"> <img src="https://user-images.githubusercontent.com/106735363/216794706-2217efb5-dc29-496f-89f9-f9b9b87f4c4f.gif" alt="icon" width="20" height="20"/>
