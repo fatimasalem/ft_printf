@@ -20,7 +20,7 @@
 
 ## About <td align="justify"> <img src="https://user-images.githubusercontent.com/106735363/216794805-97aa0eef-1126-4867-93bf-d2d23d1e218c.gif" alt="icon" width="20" height="20"/>
 
-> #### This project is about implementing the printf built-in command.
+> #### This project is about implementing the printf() built-in function.
 >The following converions are handled in this project:
 > - `%s` string
 > - `%u` unsigned decimal
